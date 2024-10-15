@@ -1,0 +1,72 @@
+{
+  "timestamp": "2024-10-15T17:09:30.740Z",
+  "stacja": "Toruń Główny",
+  "data": [
+    {
+      "departure": "18:43",
+      "delay": "Brak opóźnienia",
+      "platform": "4",
+      "track": "9",
+      "carrier": "Arriva RP sp. z o.o.",
+      "trainNumber": "50819",
+      "startStation": "Toruń Główny",
+      "endStation": "Grudziądz",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "18:47",
+      "delay": "Brak opóźnienia",
+      "platform": "1",
+      "track": "2",
+      "carrier": "POLREGIO S.A.",
+      "trainNumber": "55674",
+      "startStation": "Inowrocław",
+      "endStation": "Kaliska Kujawskie",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "18:47",
+      "delay": "Brak opóźnienia",
+      "platform": "1",
+      "track": "4",
+      "carrier": "PKP Intercity S.A.",
+      "trainNumber": "4527",
+      "startStation": "Katowice",
+      "endStation": "Gdynia Główna",
+      "difficulties": "Utrudnienia"
+    },
+    {
+      "departure": "18:52",
+      "delay": "Brak opóźnienia",
+      "platform": "3",
+      "track": "5",
+      "carrier": "POLREGIO S.A.",
+      "trainNumber": "55713",
+      "startStation": "Toruń Wschodni",
+      "endStation": "Inowrocław",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "18:58",
+      "delay": "Brak opóźnienia",
+      "platform": "1",
+      "track": "4",
+      "carrier": "PKP Intercity S.A.",
+      "trainNumber": "25101",
+      "startStation": "Chełm",
+      "endStation": "Bydgoszcz Główna",
+      "difficulties": "Utrudnienia"
+    },
+    {
+      "departure": "18:54",
+      "delay": "(+6 Min)",
+      "platform": "4",
+      "track": "7",
+      "carrier": "POLREGIO S.A.",
+      "trainNumber": "75321",
+      "startStation": "Poznań Główny",
+      "endStation": "Toruń Wschodni",
+      "difficulties": "Utrudnienia"
+    }
+  ]
+}

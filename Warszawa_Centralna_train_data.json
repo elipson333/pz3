@@ -1,0 +1,72 @@
+{
+  "timestamp": "2024-10-15T17:09:59.974Z",
+  "stacja": "Warszawa Centralna",
+  "data": [
+    {
+      "departure": "19:05",
+      "delay": "Brak opóźnienia",
+      "platform": "2",
+      "track": "3",
+      "carrier": "Koleje Mazowieckie - KM sp. z o.o.",
+      "trainNumber": "97137",
+      "startStation": "Warszawa Lotnisko Chopina",
+      "endStation": "Modlin",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:09",
+      "delay": "Brak opóźnienia",
+      "platform": "3",
+      "track": "4",
+      "carrier": "POLREGIO S.A.",
+      "trainNumber": "11132",
+      "startStation": "Warszawa Wschodnia",
+      "endStation": "Łódź Kaliska",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:00",
+      "delay": "(+21 Min)",
+      "platform": "2",
+      "track": "1",
+      "carrier": "PKP Intercity S.A.",
+      "trainNumber": "49",
+      "startStation": "Warszawa Wschodnia",
+      "endStation": "",
+      "difficulties": "Utrudnienia"
+    },
+    {
+      "departure": "19:23",
+      "delay": "Brak opóźnienia",
+      "platform": "2",
+      "track": "3",
+      "carrier": "Koleje Mazowieckie - KM sp. z o.o.",
+      "trainNumber": "19154",
+      "startStation": "Warszawa Centralna",
+      "endStation": "Skierniewice",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:25",
+      "delay": "(+3 Min)",
+      "platform": "2",
+      "track": "1",
+      "carrier": "PKP Intercity S.A.",
+      "trainNumber": "3501",
+      "startStation": "Kraków Główny",
+      "endStation": "Gdynia Główna",
+      "difficulties": "Utrudnienia"
+    },
+    {
+      "departure": "19:28",
+      "delay": "Brak opóźnienia",
+      "platform": "3",
+      "track": "4",
+      "carrier": "Szybka Kolej Miejska",
+      "trainNumber": "11322",
+      "startStation": "Radzymin",
+      "endStation": "Warszawa Lotnisko Chopina",
+      "difficulties": "Brak utrudnień"
+    }
+  ]
+}

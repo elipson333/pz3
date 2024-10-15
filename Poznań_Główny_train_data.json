@@ -1,0 +1,72 @@
+{
+  "timestamp": "2024-10-15T17:10:20.711Z",
+  "stacja": "Poznań Główny",
+  "data": [
+    {
+      "departure": "19:06",
+      "delay": "Brak opóźnienia",
+      "platform": "1",
+      "track": "16",
+      "carrier": "Koleje Wielkopolskie Sp. z o.o.",
+      "trainNumber": "77428",
+      "startStation": "Poznań Główny",
+      "endStation": "Gniezno",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:10",
+      "delay": "Brak opóźnienia",
+      "platform": "1",
+      "track": "14",
+      "carrier": "Koleje Wielkopolskie Sp. z o.o.",
+      "trainNumber": "77604",
+      "startStation": "Poznań Główny",
+      "endStation": "Koło",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:10",
+      "delay": "Brak opóźnienia",
+      "platform": "1",
+      "track": "16",
+      "carrier": "Koleje Wielkopolskie Sp. z o.o.",
+      "trainNumber": "77743",
+      "startStation": "Poznań Główny",
+      "endStation": "Zbąszynek",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:16",
+      "delay": "Brak opóźnienia",
+      "platform": "2",
+      "track": "6",
+      "carrier": "Koleje Wielkopolskie Sp. z o.o.",
+      "trainNumber": "78205",
+      "startStation": "Poznań Główny",
+      "endStation": "Krzyż",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:18",
+      "delay": "Brak opóźnienia",
+      "platform": "11",
+      "track": "56",
+      "carrier": "Koleje Wielkopolskie Sp. z o.o.",
+      "trainNumber": "77586",
+      "startStation": "Poznań Główny",
+      "endStation": "Kępno",
+      "difficulties": "Brak utrudnień"
+    },
+    {
+      "departure": "19:24",
+      "delay": "Brak opóźnienia",
+      "platform": "2",
+      "track": "8",
+      "carrier": "Koleje Wielkopolskie Sp. z o.o.",
+      "trainNumber": "77632",
+      "startStation": "Poznań Główny",
+      "endStation": "Wągrowiec",
+      "difficulties": "Brak utrudnień"
+    }
+  ]
+}
